@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I build mobile apps and a passion for IOT and AI.
+#### I build mobile apps and interested in IOT.
 
 #### ❤ Love things
 <p align="left">
