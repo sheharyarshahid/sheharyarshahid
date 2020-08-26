@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I build mobile apps and interested in IOT.
+#### I build mobile apps and obsessed with IOT.
 
 #### ❤ Love things
 <p align="left">
@@ -32,9 +32,15 @@
 ---
 #### 🌱 Currently learning:
 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/aspnet/core/">
+    <img src="https://github.com/sheharyarshahid/ColoredBadges/blob/master/svg/dev/frameworks/webapi.svg" alt="AngularJS" style="vertical-align:top margin:6px 4px">
+  </a>  
+
 <a href="https://github.com/angular/angular.js">
     <img src="https://github.com/sheharyarshahid/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" alt="AngularJS" style="vertical-align:top margin:6px 4px">
   </a>  
+</p>
   
   ---
 #### 🥰 Interested to learn:
