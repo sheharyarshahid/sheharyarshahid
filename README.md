@@ -5,7 +5,7 @@
 <p align="left">
   
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-      <img src="https://github.com/sheharyarshahid/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="C#" style="vertical-align:top margin:6px 4px">
+      <img src="https://raw.githubusercontent.com/sheharyarshahid/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" alt="C#" style="vertical-align:top margin:6px 4px">
   </a>
   
   <a href="https://docs.microsoft.com/en-us/windows/uwp/">
