@@ -32,6 +32,7 @@
     <a href="https://www.adobe.com/products/xd">
       <img src="https://github.com/sheharyarshahid/ColoredBadges/blob/master/svg/design/adobe_xd.svg" alt="Adobe XD" style="vertical-align:top margin:6px 4px">
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
 <!--
