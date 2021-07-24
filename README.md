@@ -8,6 +8,14 @@
       <img src="https://raw.githubusercontent.com/sheharyarshahid/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" alt="C#" style="vertical-align:top margin:6px 4px">
   </a>
   
+  <a href="https://www.typescriptlang.org/">
+      <img src="https://raw.githubusercontent.com/sheharyarshahid/ColoredBadges/master/svg/dev/languages/ts.svg" alt="C#" style="vertical-align:top margin:6px 4px">
+  </a>
+  
+  <a href="https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui">
+      <img src="https://github.com/sheharyarshahid/ColoredBadges/blob/master/svg/dev/frameworks/dotnet_maui.svg" alt="C#" style="vertical-align:top margin:6px 4px">
+  </a>
+  
   <a href="https://docs.microsoft.com/en-us/windows/uwp/">
       <img src="https://github.com/sheharyarshahid/ColoredBadges/blob/master/svg/dev/frameworks/uwp.svg" alt="UWP" style="vertical-align:top margin:6px 4px">
   </a>
@@ -26,13 +34,13 @@
   <a href="https://docs.microsoft.com/en-us/aspnet/core/">
     <img src="https://github.com/sheharyarshahid/ColoredBadges/blob/master/svg/dev/frameworks/webapi.svg" alt="AngularJS" style="vertical-align:top margin:6px 4px">
   </a>  
+  
   <a href="#">
       <img src="https://github.com/sheharyarshahid/ColoredBadges/blob/master/svg/dev/misc/iot.svg" alt="AngularJS" style="vertical-align:top margin:6px 4px">
   </a>  
     <a href="https://www.adobe.com/products/xd">
       <img src="https://github.com/sheharyarshahid/ColoredBadges/blob/master/svg/design/adobe_xd.svg" alt="Adobe XD" style="vertical-align:top margin:6px 4px">
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
 <!--
