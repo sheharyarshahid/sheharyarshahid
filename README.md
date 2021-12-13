@@ -34,6 +34,9 @@
   <a href="https://docs.microsoft.com/en-us/aspnet/core/">
     <img src="https://github.com/sheharyarshahid/ColoredBadges/blob/master/svg/dev/frameworks/webapi.svg" alt="AngularJS" style="vertical-align:top margin:6px 4px">
   </a>  
+    <a href="https://www.docker.com/">
+    <img src="https://raw.githubusercontent.com/sheharyarshahid/ColoredBadges/master/svg/dev/tools/docker.svg" alt="Docker" style="vertical-align:top margin:6px 4px">
+  </a>  
   
   <a href="#">
       <img src="https://github.com/sheharyarshahid/ColoredBadges/blob/master/svg/dev/misc/iot.svg" alt="AngularJS" style="vertical-align:top margin:6px 4px">
