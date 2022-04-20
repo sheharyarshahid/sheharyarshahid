@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I build mobile apps and microservices for enterprises.
+#### I build mobile apps and microservices.
 
 #### Open Source is ❤
 <p align="left">
