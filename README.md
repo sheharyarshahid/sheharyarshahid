@@ -1,7 +1,7 @@
 ### Hi there 👋
-#### I build mobile apps and microservices.
+#### I build mobile apps and microservices for enterprises.
 
-#### ❤ Love things
+#### Open Source is ❤
 <p align="left">
   
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
