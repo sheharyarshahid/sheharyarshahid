@@ -8,7 +8,7 @@
 *   🚀  I'm currently working on [My Day](http://apps.microsoft.com/store/detail/my-day-plan-your-goals/9MW3R92ZKPR7)
 *   🧠  I'm learning DevOps and Advanced Linux, Docker, Kubernetes (System administration)
 *   🤝  I'm open to collaborating on Eco-friendly projects (Climate change)
-*   ⚡  I love to create & contribute to open source sustainable projects (Environment and Climate-friendly 🌏 + 🌱 = ❤️) which makes a great impact in making our planet clean and green mostly by CO2 emissions.
+*   ⚡  I love to create & contribute to open source sustainable projects (Eco-friendly 🌏 + 🌱 = ❤️) which makes a great impact in making our planet clean and green mostly by CO2 emissions.
 
 #### Open Source is ❤
 <p align="left">
