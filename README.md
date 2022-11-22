@@ -5,7 +5,7 @@
 
 *   🌍  I'm based in Rawalpindi, Pakistan
 *   ✉️  You can contact me at [sheharyar@launchx.ai](mailto:sheharyar@launchx.ai)
-*   🚀  Currently working on [My Day](http://apps.microsoft.com/store/detail/my-day-plan-your-goals/9MW3R92ZKPR7), [K2](https://apps.apple.com/en/app/dein-gruenwelt/id1617087978) & [Smart Estimator (Automotive)](https://www.smartestimatorapp.com/)
+*   🚀  Currently working on [My Day](http://apps.microsoft.com/store/detail/my-day-plan-your-goals/9MW3R92ZKPR7), [K2](https://play.google.com/store/apps/details?id=com.ait.klima) & [Smart Estimator (Automotive)](https://apps.apple.com/gb/app/smart-estimator-app/id1544475782)
 *   🧠  Advancing DevOps and Advanced Linux, Docker, Kubernetes (System administration)
 *   🤝  Open to collaborating on Eco-friendly projects (Climate change)
 *   ⚡   Love to create & contribute to open source sustainable projects (Eco-friendly 🌏 + 🌱 = ❤️) which makes a great impact in making our planet clean and green mostly by reducing CO2 emissions.
