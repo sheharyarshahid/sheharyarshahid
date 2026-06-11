@@ -3,9 +3,9 @@
 #### I build mobile apps and microservices.
 -----------------------------------------------------
 
-*   🌍  I'm based in Rawalpindi, Pakistan
-*   ✉️  You can contact me at [sheharyar@launchx.ai](mailto:sheharyar@launchx.ai)
-*   🚀  Recent products successfully migrated from Xamarin to .NET MAUI [My Day](http://apps.microsoft.com/store/detail/my-day-plan-your-goals/9MW3R92ZKPR7), [Smart Estimator (Automotive)](https://apps.apple.com/gb/app/smart-estimator-app/id1544475782) & [MaintMobile](https://apps.apple.com/us/app/maintmobile/id1439890618)
+*   🌍  Based in Rawalpindi, Pakistan
+*   ✉️  Contact me at [sheharyar@launchx.ai](mailto:sheharyar@launchx.ai)
+*   🚀  Recent SaaS products successfully migrated from Xamarin to .NET MAUI [My Day](http://apps.microsoft.com/store/detail/my-day-plan-your-goals/9MW3R92ZKPR7), [Smart Estimator (Automotive)](https://apps.apple.com/gb/app/smart-estimator-app/id1544475782) & [MaintMobile](https://apps.apple.com/us/app/maintmobile/id1439890618)
 *   🧠  Advancing DevOps and Advanced Linux, Docker, Kubernetes (System administration)
 *   🤝  Open to collaborating on Eco-friendly projects (Climate change)
 *   ⚡   Love to create & contribute to open source sustainable projects (Eco-friendly 🌏 + 🌱 = ❤️) which make a great impact in making our planet clean and green mostly by reducing CO2 emissions.
