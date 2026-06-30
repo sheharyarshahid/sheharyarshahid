@@ -1,5 +1,5 @@
 # Hi 👋 My name is Sheharyar
-### Enterprise Mobile Developer (.NET | MAUI | DevOps | AI | SaaS)
+### Enterprise Mobile Developer (.NET MAUI | DevOps | .NET + AI + SaaS = ❤️)
 #### I build mobile apps and microservices.
 -----------------------------------------------------
 
